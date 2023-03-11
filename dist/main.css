@@ -1,3 +1,7 @@
+@import url(https://fonts.googleapis.com/css2?family=Raleway&display=swap);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 #modal{
   transition: all 500ms ease;
   opacity: 0;
